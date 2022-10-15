@@ -1,6 +1,6 @@
 class prog1
 {
- prog1()
+ prog1()//constructor
 {
  System.out.println("welcome");
 }

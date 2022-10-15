@@ -1,6 +1,6 @@
 class prog2
 {
- void prog2()
+ void prog2()//instance method
 {
  System.out.println("welcome");
 }
