@@ -1,4 +1,4 @@
-//has a relationships in java
+//"HAS-A" relationships in java
 class A
 {
  void show()
