@@ -5,7 +5,7 @@ class demo
 {
  A get()
  {
-  A a=new B();
+  A a=new B();//valid upcasting
   return a;
  }
  public static void main(String args[])

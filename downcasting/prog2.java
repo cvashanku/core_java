@@ -1,3 +1,4 @@
+//downcasting
 class A{}
 class B extends A{}
 class demo
