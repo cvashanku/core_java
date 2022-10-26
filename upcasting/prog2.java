@@ -1,3 +1,4 @@
+//upcasting
 class A{}
 class B extends A{}
 class demo
@@ -10,6 +11,6 @@ class demo
  public static void main(String args[])
  {
   demo d=new demo();
-  A a=d.get();
+  A a=d.get();//A a=b;---->valid upcasting
  }
 }

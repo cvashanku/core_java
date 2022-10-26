@@ -1,4 +1,4 @@
-//valid upcasting
+//upcasting
 class A{}
 class B extends A{}
 class demo
@@ -10,6 +10,6 @@ class demo
  {
   B b=new B();
   demo d=new demo();
-  d.set(b);
+  d.set(b);//A a=b;---->valid upcasting
  }
 }
