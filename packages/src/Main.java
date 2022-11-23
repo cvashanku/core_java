@@ -1,6 +1,6 @@
 package test;
 import pack1.*;
-import pack1.pack11.*;
+import pack11.*;
 import pack2.*;
 class main
 {
