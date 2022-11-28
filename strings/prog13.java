@@ -1,4 +1,4 @@
-//program to demonstrate command line 
+//program to demonstrate command line with for loop
 
 class demo
 {
