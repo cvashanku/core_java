@@ -1,0 +1,29 @@
+java.lang.integer
+
+Constructor:-
+  public Integer(int);
+ ==>it is used to convert int to integer
+
+Method:-
+  public int intValue();
+==>it is used to convert integer to int
+
+primitive type to reference type:-
+  int x=10;
+  integer i=new integer(x);
+
+reference type to prmitive type:-
+  integer i=new integer(10);
+  int x=i.intValue();
+
+
+auto boxing:
+  primitive type to reference type:-
+     int x=10;
+     integer i=x;==>Auto boxing
+
+
+auto unboxing:
+  reference type to prmitive type:-
+     integer i=new integer(10);
+     int x=i;Auto unboxing
