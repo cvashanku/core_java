@@ -1,12 +1,12 @@
 //program to read data from file
 
 import java.io.*;
-
 class demo
 {
   public static void main(String args[])
    {
-    try{
+    try
+     {
      FileInputStream fis=new FileInputStream(args[0]);
      int n=fis.available();
      byte[] b=new byte[n];
